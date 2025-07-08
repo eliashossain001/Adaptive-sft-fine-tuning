@@ -1,0 +1,7 @@
+batch_size: 2
+cot: true
+epochs: 1
+learning_rate: 0.0002
+multi_turn: true
+persona: doctor
+strategy: qlora

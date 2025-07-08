@@ -1,0 +1,79 @@
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.env
+.env.*
+pip-log.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Model outputs / checkpoints
+outputs/
+**/checkpoints/
+*.ckpt
+*.bin
+*.pt
+
+# Adapter files and caches
+unsloth_compiled_cache/
+adapter_model.safetensors
+
+# Hugging Face & transformers cache (usually in home dir, but in case)
+.cache/
+huggingface_hub/
+transformers_cache/
+
+# Tokens, keys, credentials
+*.key
+*.token
+*credentials*.json
+*.pem
+*.p12
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Misc
+*.so
+*.dylib
+
+# GGUF model bundles
+*.gguf
+
+# model bundles
+*.gguf
+
+# do not track model outputs / checkpoints
+outputs/
+
+# ignore checkpoints & large bundles
+outputs/
+*.gguf
