@@ -1,4 +1,4 @@
-# Multi‑Stage Fine‑Tuning & Evaluation Benchmark 🦙🚀
+# Multi‑Stage Domain Adaptive LLM Fine Tuning and Benchmark Evaluation 🦙🚀
 
 This repository provides a **complete, minimal‐but‑extensible pipeline** for fine‑tuning *multiple* open‑source LLMs across several *optimization strategies* (SFT, QLoRA, DPO, GRPO) and *domains* (medical, code‑generation, legal/policy).
 
@@ -83,3 +83,12 @@ llm_finetuning_benchmark/
 * [Unsloth](https://github.com/unslothai/unsloth) `pip install unsloth`  
 
 Full list in **`requirements.txt`**.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/) [![GitHub stars](https://img.shields.io/github/stars/eliashossain001/Domain-adaptive-llm-ft?style=social)](https://github.com/eliashossain001/Domain-adaptive-llm-ft)
+
+## 👨‍💼 Author
+
+**Elias Hossain**  
+_Machine Learning Researcher | PhD in Progress | AI x Reasoning Enthusiast_
+
+[![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
