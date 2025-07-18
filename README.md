@@ -89,6 +89,6 @@ Full list in **`requirements.txt`**.
 ## 👨‍💼 Author
 
 **Elias Hossain**  
-_Machine Learning Researcher | PhD in Progress | AI x Reasoning Enthusiast_
+_Machine Learning Researcher | PhD Student | AI x Reasoning Enthusiast_
 
 [![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
